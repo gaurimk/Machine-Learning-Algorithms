@@ -25,6 +25,5 @@ This repository contains a collection of **Machine Learning algorithms** impleme
   - Prediction  
   - Evaluation  
 
-## 📂 Folder Structure
 
 
